@@ -1,0 +1,7 @@
+customtkinter>=5.2.2
+requests>=2.31.0
+pyairtable>=1.4.0
+
+
+
+
